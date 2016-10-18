@@ -29,7 +29,7 @@ body{
 	line-height: 1em;
 }
 
-.fecha{
+.date{
 	font-family: Verdana;
 	text-align: center;
 	font-size: 1.5em;
@@ -39,7 +39,7 @@ body{
 	width: 100%;
 }
 
-.reloj{
+.clock{
 	font-family: Verdana;
 	text-align: center;
 	font-size: 4em;
@@ -48,12 +48,12 @@ body{
 	width: 100%;
 }
 
-.reloj .caja-segundos{
+.clock .div-seconds{
 	display: inline-block;
 }
 
-.reloj .segundos,
-.reloj .ampm{
+.clock .seconds,
+.clock .ampm{
 	font-size: 2rem;
 	display: block;
 }
