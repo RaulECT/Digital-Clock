@@ -21,7 +21,7 @@ body{
 .widget{
 	width: 40%;
 	margin: 2em;
-	//margin: 32px;
+	margin: 32px;
 }
 
 .widget p{
